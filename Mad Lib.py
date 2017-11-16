@@ -1,3 +1,4 @@
+import time
 print("Write an adjective")
 adjective1 = input()
 
@@ -78,3 +79,4 @@ print("They heard the evil witch scream her last word, " + exclamation)
 print("Now you know the true story of Hansel and Gretel.")
 
 print("Play again?")
+time.sleep(100)
